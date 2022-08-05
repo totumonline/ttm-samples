@@ -5,3 +5,5 @@
 ### ! ---- WARNING ---- !
 
 Samples with `_warning` in the names, may be installed only in the clear schemas!
+
+Примеры с `_warning` в названиях, могут быть установлены только в чистые схемы!
