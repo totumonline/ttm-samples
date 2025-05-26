@@ -1,11 +1,7 @@
 # How to download sample to your Totum schema
 
-### [Video on YouTube in English](https://youtu.be/C4vh3-LM5YA)
-
-### [Видео на YouTube на Русском](https://youtu.be/UA7j28Ht5u4)
+### [Video on YouTube](https://youtu.be/C4vh3-LM5YA)
 
 ### ! ---- WARNING ---- !
 
-Samples with `_warning` in the names, may be installed only in the clear schemas!
-
-Примеры с `_warning` в названиях, могут быть установлены только в чистые схемы!
+Samples named with _only_for_clean_systems can only be installed on clean system images.
